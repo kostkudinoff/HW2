@@ -4,12 +4,12 @@
       <fileDesc>
 	     <titleStmt>
 		    <title>Кавказские повести</title>
-         </titleStmt>
+             </titleStmt>
 		 <respStmt>
 		    <persName>Кудинов Константин</persName>
-			<resp>Создал документ в TEI и выделил в тексте прямую речь</resp>
+		    <resp>Создал документ в TEI и выделил в тексте прямую речь</resp>
 		 </respStmt>
-	  </fileDesc>
+      </fileDesc>
    </teiHeader>
 
  1.  
