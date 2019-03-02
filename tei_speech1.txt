@@ -2,13 +2,13 @@
 
    <teiHeader>
       <fileDesc>
-	     <titleStmt>
-		    <title>Кавказские повести</title>
-             </titleStmt>
-		 <respStmt>
-		    <persName>Кудинов Константин</persName>
-		    <resp>Создал документ в TEI и выделил в тексте прямую речь</resp>
-		 </respStmt>
+         <titleStmt>
+            <title>Кавказские повести</title>
+         </titleStmt>
+         <respStmt>
+            <persName>Кудинов Константин</persName>
+	    <resp>Создал документ в TEI и выделил в тексте прямую речь</resp>
+         </respStmt>
       </fileDesc>
    </teiHeader>
 
